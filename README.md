@@ -74,13 +74,6 @@ A feature-rich Java-based text editor built using Swing components and the Java 
 
 ---
 
-## **Future Improvements**
-- Adding support for **additional file formats**.  
-- Implementing a **spell-checking feature**.  
-- Providing advanced text styling options like **alignment, indentation, and color**.
-
----
-
 ## **Author**
 This project was created as a demonstration of **Java Swing** capabilities and the **Java Collections Framework**. Contributions and feedback are welcome! Feel free to raise issues or submit pull requests. 😊  
 
